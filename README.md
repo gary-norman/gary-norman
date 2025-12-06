@@ -26,7 +26,8 @@ I'm a **software developer** passionate about building elegant, user-centric app
 
 ## 📊 GitHub Stats
 
-![Gary's GitHub stats](https://github-readme-stats.vercel.app/api?username=gary-norman&show_icons=true&theme=radical)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/gary-norman/codex?authorFilter=gary-norman&style=for-the-badge&logo=github)
+
 
 ---
 
